@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Verity.BankAPI</name>
+    </assembly>
+    <members>
+        <member name="M:Verity.BankAPI.Controllers.CurrentAccountController.Transaction(Verity.BankAPI.Entities.CurrentAccount.Transaction)">
+            <summary>
+            Do transactions to given account
+            </summary>
+            <param name="model"></param>
+            <returns>message of type string</returns>
+        </member>
+        <member name="M:Verity.BankAPI.Controllers.CurrentAccountController.Statement(Verity.BankAPI.Entities.CurrentAccount.CurrentAccount)">
+            <summary>
+            Get statement from given current account
+            </summary>
+            <param name="model"></param>
+            <returns>statement from current account</returns>
+        </member>
+    </members>
+</doc>

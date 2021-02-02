@@ -1,0 +1,8 @@
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\bin\Debug\netcoreapp2.1\Verity.BankAPI.Entities.deps.json
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\bin\Debug\netcoreapp2.1\Verity.BankAPI.Entities.dll
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\bin\Debug\netcoreapp2.1\Verity.BankAPI.Entities.pdb
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\obj\Debug\netcoreapp2.1\Verity.BankAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\obj\Debug\netcoreapp2.1\Verity.BankAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\obj\Debug\netcoreapp2.1\Verity.BankAPI.Entities.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\obj\Debug\netcoreapp2.1\Verity.BankAPI.Entities.dll
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Entities\obj\Debug\netcoreapp2.1\Verity.BankAPI.Entities.pdb

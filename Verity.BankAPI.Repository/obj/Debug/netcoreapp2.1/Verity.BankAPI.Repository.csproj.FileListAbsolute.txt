@@ -1,0 +1,12 @@
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\bin\Debug\netcoreapp2.1\Verity.BankAPI.Repository.deps.json
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\bin\Debug\netcoreapp2.1\Verity.BankAPI.Repository.dll
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\bin\Debug\netcoreapp2.1\Verity.BankAPI.Repository.pdb
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\bin\Debug\netcoreapp2.1\Verity.BankAPI.Entities.dll
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\bin\Debug\netcoreapp2.1\Verity.BankAPI.Entities.pdb
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.csproj.CopyComplete
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.dll
+C:\Users\Diogo\Desktop\Projetos\Verity.BankAPI\Verity.BankAPI.Repository\obj\Debug\netcoreapp2.1\Verity.BankAPI.Repository.pdb
